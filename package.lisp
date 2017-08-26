@@ -1,6 +1,6 @@
 ;;;; package.lisp
 
 (defpackage #:my-web-app
-  (:use #:cl #:hunchentoot #:cl-who
-		#:cl-json))
+  (:use #:cl #:hunchentoot
+        #:cl-who #:cl-json))
 
