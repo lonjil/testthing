@@ -8,7 +8,8 @@
 			   #:split-sequence
 			   #:livesupport
 			   #:cl-who
-			   #:cl-json)
+			   #:cl-json
+			   #:lass)
   :serial t
   :components ((:file "package")
                (:file "my-web-app")))
